@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "재윤이의 주문서",
+    "description": "재윤이와 아빠가 만든 행동팩",
+    "uuid": "9c34ba6a-5ec2-4595-a567-32e68087b2ac",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "90112d8c-f56d-4561-804f-3f39b49859aa",
+      "version": [1, 0, 0]
+    }
+  ]
+}
