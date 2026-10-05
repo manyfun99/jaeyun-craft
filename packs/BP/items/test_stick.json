@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.60",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jaeyoon:test_stick",
+      "menu_category": {
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "jaeyoon_test_stick",
+      "minecraft:display_name": {
+        "value": "시험 막대기"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "재윤이의 그림 팩",
+    "description": "재윤이와 아빠가 만든 리소스팩",
+    "uuid": "bcd0aa20-b75e-4c0c-8591-10e5536b4a6b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "72b19bda-8187-477a-9174-b0826714ec22",
+      "version": [1, 0, 0]
+    }
+  ]
+}
