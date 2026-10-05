@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "jaeyoon",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "jaeyoon_test_stick": {
+      "textures": "textures/items/test_stick"
+    },
+    "jaeyoon_one_kill": {
+      "textures": "textures/items/one_kill"
+    }
+  }
+}
