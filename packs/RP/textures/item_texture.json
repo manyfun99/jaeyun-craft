@@ -7,6 +7,9 @@
     },
     "jaeyoon_one_kill": {
       "textures": "textures/items/one_kill"
+    },
+    "jaeyoon_super_smash": {
+      "textures": "textures/items/super_smash"
     }
   }
 }
