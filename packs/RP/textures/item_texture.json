@@ -10,6 +10,9 @@
     },
     "jaeyoon_super_smash": {
       "textures": "textures/items/super_smash"
+    },
+    "jaeyoon_cat_sword": {
+      "textures": "textures/items/cat_sword"
     }
   }
 }
